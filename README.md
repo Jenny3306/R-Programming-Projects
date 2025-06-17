@@ -1,8 +1,8 @@
 # Projects
 
-Hi and Welcome to My Projects repository!
+Hi and Welcome to My R Programming Projects repository!
 
-This workplace will be a collection of projects I have done. 
+This workplace will be a collection of R projects I have done. 
 
 There are some different branches I've created to classify which place I carried out my projects so that I can easily find it afterwards.
 
