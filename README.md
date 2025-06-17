@@ -1,6 +1,6 @@
-# Projects
+# R Programming Projects
 
-Hi and Welcome to My R Programming Projects repository!
+Hi and Welcome to My R Projects repository!
 
 This workplace will be a collection of R projects I have done. 
 
